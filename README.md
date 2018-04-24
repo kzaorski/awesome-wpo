@@ -1,4 +1,6 @@
 # Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
+[![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
 
@@ -59,6 +61,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Books
 > Best books about WPO
 
+* [HTTP/2 in Action by Barry Pollard](https://www.manning.com/books/http2-in-action) - Barry Pollard - early release
 * [Web Performance in Action by Jeremy Wagner](https://www.manning.com/books/web-performance-in-action) - Jeremy L. Wagner
 * [Book of Speed](http://www.bookofspeed.com/) - Stoyan Stefanov
 * [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) - Lara Callender Hogan
@@ -80,7 +83,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Case studies
 
-* [WPOStats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics..
+* [WPOStats](https://wpostats.com/) - Case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.
 
 
 ## Documentation
@@ -102,53 +105,15 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ### Conferences
 
-* [Google I/O](https://events.google.com/io2016/) – Google I/O brings together developers for an immersive, three-day experience focused on exploring the next generation of technology, mobile and beyond.
-* [From the Front](https://fromthefront.it/) – The frontend guide to life, universe and everything is going to be an inspiring, formative, cutting edge gathering of some of the best frontend developers and UX people in the world.
-* [SmashingConf](http://smashingconf.com/) – Our mission is to explore real-life web design problems and techniques that are relevant and applicable to your work straight away.
 * [Velocity](http://conferences.oreilly.com/velocity) – At Velocity, web operations, performance, and DevOps professionals learn to build fast, resilient, and highly available websites and apps.
 
 ### Meetups
 
-> Full list on meetup.com: [Web Performance Meetup Groups](http://web-performance.meetup.com/)
-
-* [Atlanta Web Performance Group](http://www.meetup.com/Atlanta-Web-Performance-Group/) – Atlanta (GA), US :us:
-* [Austin Web Performance Group](http://www.meetup.com/Austin-Web-Performance-Group/) – Austin (TX), US :us:
-* [Barcelona Web Performance Group](http://www.meetup.com/Barcelona-Web-Performance/) – Barcelona, Spain :es:
-* [Belgium Web Performance Group](http://www.meetup.com/Belgian-Web-Performance-Group/) – Brussels, Belgium
-* [Berlin Web Performance Group](http://www.meetup.com/Berlin-Web-Performance-Group/) – Berlin, Germany :de:
-* [Boston Web Performance Group](http://www.meetup.com/Web-Performance-Boston/) – Boston (MA), US :us:
-* [Bristol Web Performance Group](http://www.meetup.com/bristolwebperf/) – Bristol, UK :gb:
-* [Chicago Web Performance Meetup](http://www.meetup.com/Chicago-Web-Performance-Meetup/) – Chicago (IL), US :us:
-* [Cologne Web Performance Group](http://www.meetup.com/cologne-germany-high-performance-website-optimization-group/) – Cologne, Germany :de:
-* [Dutch Web Performance & Operations Meetup](http://www.meetup.com/Dutch-Web-Operations-Meetup/) – Nederland :nl:
-* [Hamburg Web Performance Group](http://www.meetup.com/Hamburg-Web-Performance-Group/) – Hamburg, Germany :de:
-* [Indianapolis Web Performance Group](http://www.meetup.com/IndyWebPerf/) – Carmel (IN), US :us:
-* [Israel Web Performance Group](http://www.meetup.com/wpo-il/) – Herzliya, Israel
-* [Karlsruhe Web Performance Group](http://www.meetup.com/Karlsruhe-Web-Performance-Group/) – Karlsruhe, Germany :de:
-* [London Web Performance Group](http://www.meetup.com/London-Web-Performance-Group/) – London, UK :gb:
-* [Luxemburg Web Performance Meetup](http://www.meetup.com/Luxemburg-Web-Performance-Meetup/) – Bruxelles, Belgium
-* [Manchester Web Performance Group](http://www.meetup.com/Manchester-Web-Performance-Group/) – Manchester, UK :gb:
-* [Minneapolis Web Performance Group](http://www.meetup.com/Minneapolis-Web-Performance-Meetup-Group/) – Minneapolis (MN), US :us:
-* [Melbourne Web Performance & Security Meetup](http://www.meetup.com/Melbourne-Web-Performance-Security-Meetup/) – Melbourne, Australia
-* [Munich Web Performance Group](http://www.meetup.com/Munchen-Web-Performance-Group/) – Munich, Germany :de:
-* [New York Web Performance Group](http://www.meetup.com/Web-Performance-NY/) – New York (NY), US :us:
-* [San Diego Web Performance Group](http://www.meetup.com/Web-Performance-SanDiego/) – San Diego (CA), US :us:
-* [San Francisco & Silicon Valley Web Performance Group](http://www.meetup.com/SF-Web-Performance-Group/) – San Francisco, US :us:
-* [Santa Cruz Web Performance Meetup](http://www.meetup.com/Santa-Cruz-Web-Performance-Meetup/) – Santa Cruz (CA), US :us:
-* [São Paulo Web Performance Group](http://www.meetup.com/Web-Performance-SP/) – São Paulo, Brazil
-* [Seattle Web Performance Group](http://www.meetup.com/Seattle-Web-Performance-Group/) – Seattle (WA), US :us:
-* [South Florida Web Performance Group](http://www.meetup.com/South-Florida-Web-Performance-Group/) – Fort Lauderdale (FL), US :us:
-* [Stockholm Web Performance Group](http://www.meetup.com/Stockholm-Web-Performance-Group/) – Stockholm, Sweden
-* [Sydney Web Performance & Security Meetup](http://www.meetup.com/Sydney-Web-Performance-Security-Meetup/) – Sydney, Australia
-* [Toronto Web Performance Group](http://www.meetup.com/Toronto-Web-Performance-Group/) – Toronto, Canada
-* [Turin Web Performance Group](http://www.meetup.com/Turin-Web-Performance-Group/) – Turin, Italy :it:
-* [Vancouver Web Performance Group](http://www.meetup.com/Vancouver-Web-Performance/) – Vancouver, Canada
-* [Vienna Web Performance Group](http://www.meetup.com/Vienna-Web-Performance-Group/) – Vienna, Austria
-* [Warsaw Web Performance Group](http://www.meetup.com/Warsaw-Web-Performance-Group/?chapter_analytics_code=UA-61243294-4) – Warsaw, Poland
+> They are categorized into [MEETUPS.md](MEETUPS.md).
 
 ## Talks
 
-> For a better categorization of the talks, they were categorized into [TALKS.md](TALKS.md).
+> They are categorized into [TALKS.md](TALKS.md).
 
 
 # Tools
@@ -165,13 +130,13 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-yslow](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
 * [Grunt-perfbudget](https://github.com/tkadlec/grunt-perfbudget) - A Grunt.js task for enforcing a performance budget ([more on performance budgets](https://timkadlec.com/2013/01/setting-a-performance-budget/)).
 * [Web Tracing Framework](https://github.com/google/tracing-framework) - Web Tracing Framework is a set of libraries, tools, and visualizers for the tracing and investigation of complex web applications
-* [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behaviour and performance, while generating actual load.
-* [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extendable open source load testing tool for advanced linux users which is especially good as a part of automated load testing suit.
+* [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) - An automated performance and test automation product from Hewlett-Packard for application load testing: examining system behavior and performance, while generating actual load.
+* [Yandex.Tank](https://github.com/yandex/yandex-tank) - An extensible open source load testing tool for advanced linux users which is especially good as a part of an automated load testing suite.
 * [Yellow Lab Tools](http://yellowlab.tools) - Online quick and easy tool that audits front-end bad practices, reveals performance issues and profiles JavaScript.
-* [PerfAudit](http://perfaudit.com/) - Performance audit of web applications by professionals to help make web applications faster.
 * [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
 * [Varvy](https://varvy.com/pagespeed/) - Test your site to see if it follows the Google guidelines for speed.
 * [Web Bloat Score Calculator](http://www.webbloatscore.com/) - Compare size of a page to a compressed image of the same page
+* [Speed Racer](https://github.com/ngryman/speedracer) - Collect performance metrics for your library/application using Chrome headless.
 
 ## Analyzers - API
 
@@ -225,18 +190,17 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Handpicked jQuery Plugins Repository CDN](http://www.jque.re/) - Content Delivery Network for popular jQuery plugins.
 * [OSSCDN](https://github.com/MaxCDN/osscdn) - OSSCDN is a free CDN powered by MaxCDN that hosts all kinds of Open Source projects.
 * [CDNify](https://cdnify.com/) - A Content Delivery Network for distributing all your static assets with ease around the globe.
-* :cn: [Baidu public CDN](http://developer.baidu.com/wiki/index.php?title=docs/cplat/libs) - Baidu public CDN serves stable, reliable, high-speed services, including all of the world's most popular open source JavaScript libraries.
 * :cn: [UpYun CDN](http://jscdn.upai.com/) - CDN provided by upyun.
 * :cn: [Sina Public Resources](http://lib.sinaapp.com/) - CDN provided by sinaapp.com.
 * :cn: [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) - Bootstrap Chinese net open CDN service (only HTTP).
 * :ru: [Yandex CDN](https://tech.yandex.ru/jslibs/) - Yandex Content Delivery Network hosts popular third party JavaScript and CSS libraries (best for use in Russia).
 
-> To find useful informations and powerful tools in an easy-to-use online environment for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
+> To find useful more information for you make the right choice between paid CDNs, please visit [CDNPlanet](http://www.cdnplanet.com/).
 
 
 ## CDN - Monitor
 
-* [CDNperf](http://www.cdnperf.com/about) - finds you fast and reliable JavaScript CDNs that make your websites snappy and happy.
+* [CDNperf](http://www.cdnperf.com/) - finds you fast and reliable JavaScript CDNs that make your websites snappy and happy.
 
 
 ## CDN - Utilities
@@ -268,7 +232,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Gulp-WebP](https://github.com/sindresorhus/gulp-webp) - Convert images to WebP for Gulp.
 * [Imageoptim](https://imageoptim.com/) - Free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
 * [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - Make ImageOptim, ImageAlpha and JPEGmini part of your automated build process.
-* [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimisation of images part of your automated build process.
+* [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimization of images part of your automated build process.
 * [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 * [Kraken Web-interface](https://kraken.io/web-interface) - Optimize your images and will be available for download for 12 hours.
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
@@ -278,7 +242,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
-* [ImageEngine](https://web.wurfl.io/#image-engine) - Cloud service for optimizing, resizing and cacheing images on the fly with great mobile support.
+* [ImageEngine](https://web.wurfl.io/#image-engine) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 
 
 ## Lazyloaders
@@ -305,13 +269,11 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [GTmetrix](https://gtmetrix.com/) - GTmetrix uses Google Page Speed and Yahoo! YSlow to grade your site's performance and provides actionable recommendations to fix these issues.
 * [Pingdom Website Speed Test](http://tools.pingdom.com/fpt/) - Test the load time of that page, analyze it and find bottlenecks.
 * [Dotcom-tools](https://www.dotcom-tools.com/website-speed-test.aspx) - analyze your website's speed in real browsers from 20 locations worldwide.
-* [Libra](https://github.com/pitomba/libra) - Libra is a service to measure the weight at the time, written in Python.
 * [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
 * [Sitespeed.io](https://www.sitespeed.io/documentation/) - Sitespeed.io is an open source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
 * [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
 * [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo](https://github.com/asciidisco/perfjankie-test)).
 * [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring/) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
-* [PerfBar](http://lafikl.github.io/perfBar/) - Simple way to collect and look at your website performance metrics quickly, that supports budgeting and adding custom metrics.
 * [New Relic Browser Monitoring](http://newrelic.com/browser-monitoring) - Monitor your browser-side applications in real time, with a focus on real end users’ experiences.
 * [DareBoost](https://www.dareboost.com/) - Real Browser Monitoring. Offers complete reports about web performance and quality  using YSlow, Page Speed and numerous custom tips.
 
@@ -323,7 +285,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Minifiers - HTML
 
-* [HTMLCompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result pages become smaller in size and load faster. A command-line version of the compressor is also available.
+* [HTMLCompressor](https://code.google.com/p/htmlcompressor/) - HtmlCompressor is a small, fast and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
 * [Django-htmlmin](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command line tool that can be used for static websites or deployment scripts.
 * [HTMLMinifier](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
 * [Grunt-contrib-htmlmin](https://github.com/gruntjs/grunt-contrib-htmlmin) - A grunt plugin to minify HTML that uses HTMLMinifier.
@@ -373,7 +335,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [TMI](https://github.com/addyosmani/tmi) - TMI (Too Many Images) - discover your image weight on the web.
 
 
-## Sprite Generators
+## Generators
 
 * [Glue](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate sprites:
 * [Pitomba-spriter](https://github.com/pitomba/spriter) - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
@@ -389,6 +351,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
 * [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
 * [Sprity](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
+* [Sprite Factory](https://github.com/jakesgordon/sprite-factory) - The sprite factory is a ruby library that can be used to generate CSS sprites. It combines individual image files from a directory into a single unified sprite image and creates an appropriate CSS stylesheet for use in your web application.
 
 
 ## SVG
